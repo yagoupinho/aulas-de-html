@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: borde;
+
+}
+
+h1 {
+    background-color: cornflowerblue;
+    /* muda cor do fundo */
+    color: gray;
+    /*  muda cor da letra */
+    border-radius: 20px;
+    /* arredonda a borda */
+    text-align: center;
+    /* centraliza o texto */
+
+}
+
+h2 {
+    text-shadow: 2px 2px 4px black;
+}
+
+#segundo {
+    background-color: grey;
+    color: cornflowerblue;
+}
+p {
+    color: pink;
+}
+.dois {
+color:blue;
+}
+
+.terceiro {
+    color: blue;
+    background-color: brown;
+}
